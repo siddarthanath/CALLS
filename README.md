@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/CALLS.jpg" alt="CALLS Logo" width="750">
+  <img src="images/CALLS.png" alt="CALLS Logo" width="750">
 </p>
 
 <h1 align="center">🧠 CALLS - Context Aware Large Language System 🧠</h1>
@@ -31,7 +31,7 @@ We hypothesise that 1) a LLM possesses contextual understanding and thus, 2) can
 The dataset comes from BigSolDB, which is an expansive and diverse solubility dataset encompassing a wide range of organic compounds. Thorough preprocessing is applied to create a curated dataset, for which CBO can be performed on.
 
 <p align="center">
-  <img src="images/CALLS_template.jpg" width="750">
+  <img src="images/CALLS_template.png" width="750">
 </p>
 
 
